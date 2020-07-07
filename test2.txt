@@ -1,0 +1,2 @@
+this is the second test text file now that ive figured out how to open and close a vi file fuhhh
+
